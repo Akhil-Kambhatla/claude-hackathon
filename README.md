@@ -1,17 +1,17 @@
 # Claude-Hackathon
 
 > **Getting care should not depend on paperwork.**  
-> **Sentinent helps doctors and care teams move through prior authorization faster, so patients can get treated sooner.**
+> **Sentient helps doctors and care teams move through prior authorization faster, so patients can get treated sooner.**
 
 ## Why this matters
 
 Doctors and care teams spend too much time going back and forth with insurance companies before they can move ahead with treatment. That means delays, stress, and in some cases, patients giving up before they get the care they need.
 
-We built **Sentinent** to make that process simpler, faster, and less frustrating.
+We built **Sentient** to make that process simpler, faster, and less frustrating.
 
 ## What it does
 
-**Sentinent** is a simple platform that helps healthcare providers handle prior authorization with less manual work.
+**Sentient** is a simple platform that helps healthcare providers handle prior authorization with less manual work.
 
 With it, users can:
 
@@ -43,7 +43,7 @@ It solves a real problem that affects real patients.
 
 When treatment gets delayed, people suffer.  
 When admin work takes over, doctors lose time they should be spending on care.  
-**Sentinent tackles that problem directly.**
+**Sentient tackles that problem directly.**
 
 ## Features
 
