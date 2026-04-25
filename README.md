@@ -10,6 +10,10 @@ Upload an insurance policy PDF + patient medical record → get an AI-powered de
 **What this does:** Upload two PDFs. Get back a 0–100 denial risk score, plain-English explanation, and exact list of what to fix. No EHR. No contract. Just a browser.
 
 ## How to run
+###Clone
+```bash
+git clone https://github.com/Akhil-Kambhatla/Team-PreAuth.ai.git
+```
 
 ```bash
 cd prior_auth
